@@ -1,3 +1,7 @@
+## Is this what I want?
+
+Seems to easy and not enough potential to learn, though that might be becasue I haven't really looked into it that much yet...
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dslowder/dslowder.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.

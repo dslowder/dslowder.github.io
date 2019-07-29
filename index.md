@@ -1,6 +1,6 @@
 ## Is this what I want?
 
-Seems to easy and not enough potential to learn, though that might be becasue I haven't really looked into it that much yet...
+Seems too easy and not enough potential to learn, though that might be becasue I haven't really looked into it that much yet...
 
 ## Welcome to GitHub Pages
 
